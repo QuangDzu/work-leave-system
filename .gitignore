@@ -1,0 +1,6 @@
+"work-leave-be/vendor/" 
+"work-leave-be/.env" 
+"work-leave-be/storage/*.key" 
+"work-leave-fe/node_modules/" 
+"work-leave-fe/.env" 
+"work-leave-fe/dist/" 
